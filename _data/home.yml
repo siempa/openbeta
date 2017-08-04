@@ -3,7 +3,7 @@
 banner_title: Your Voice Matters
 banner_label:
   - text: ATTENTION: In the fall of 2017, we will release a new USAspending.gov. At that time, OpenBeta.usaspending.gov will cease production. 
-  - text: You can also preview the new site at <a class="usa-cta external-link" style="color:#68BF74;" href="https://beta.usaspending.gov" target="_blank">beta.usaspending.gov</a> and tell us what you think. We'll be adding new features to the beta site and welcome your suggestions for future enhancements.  Help us make sure the new USAspending.gov will work for you.
+  - text: You can preview the new site at <a class="usa-cta external-link" style="color:#68BF74;" href="https://beta.usaspending.gov" target="_blank">beta.usaspending.gov</a> and tell us what you think. We'll be adding new features to the beta site and welcome your suggestions for future enhancements.  Help us make sure the new USAspending.gov will work for you.
 
 active_tab:
   - category: Prototypes
